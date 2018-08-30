@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATestProject", "EATestProject\EATestProject.csproj", "{0D6CD2A0-EA1F-4ADE-9624-E636932FEAB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAEmployeeTest", "EAEmployeeTest\EAEmployeeTest.csproj", "{CE6222C2-C653-4C1B-BD92-5576F22FD00F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EALoginTest", "EAEmployeeTest\EALoginTest.csproj", "{CE6222C2-C653-4C1B-BD92-5576F22FD00F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
